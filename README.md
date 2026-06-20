@@ -1,0 +1,18 @@
+ATS RESUME CHECKER
+ a streamlit based ats resume analyzer that compares a resume with a ob description usinng NLP techniques
+
+ FEATURES:
+ UPLOAD RESUME PDF
+ PASTE JOB DESCRIPTION ATS MATCH SCORE CALCULATION
+ MISSING WORDS DETRCTION
+
+
+ TECH STACK:
+ PYTHON
+ STREAMLIT
+ PYPDF
+ SCIKIT LEARN
+ NLP(TF-IDF)
+ COSINE SIMILARITY
+ 
+  
