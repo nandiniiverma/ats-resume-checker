@@ -1,5 +1,5 @@
 ATS RESUME CHECKER
- a streamlit based ats resume analyzer that compares a resume with a ob description usinng NLP techniques
+ a streamlit based ats resume analyzer that compares a resume with a ob description using NLP techniques
 
  FEATURES:
  UPLOAD RESUME PDF
