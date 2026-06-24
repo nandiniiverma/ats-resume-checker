@@ -3,3 +3,4 @@ pypdf
 scikit-learn
 pandas
 nltk
+plotly
